@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "FundiWorks"
+theme = "seminyak"  # https://github.com/comfusion/seminyak
+
+[params]
+  color_palette = "grey" # Required, adjusts color palette
+  theme_color = "#fffdc3" # Optional, theme-color meta tag
+  referrer_policy = "same-origin" # Optional, referrer policy meta tag
+  background_image_url = "https://source.unsplash.com/kNfP4Z2eq7w" # Optional, background image
+  google_fonts = "Oswald|Raleway" # Passed to Google for Web Font
