@@ -1,7 +1,7 @@
 baseURL = "https://fundiworks.com/"
 languageCode = "en-gb"
 title = "FundiWorks"
-theme = "seminyak"  # https://github.com/comfusion/seminyak
+theme = "seminyak"  # https://github.com/lildude/seminyak
 
 [params]
   color_palette = "grey" # Required, adjusts color palette
