@@ -1,4 +1,4 @@
-baseURL = "http://fundiworks.netlify.com/"
+baseURL = "https://fundiworks.com/"
 languageCode = "en-gb"
 title = "FundiWorks"
 theme = "seminyak"  # https://github.com/comfusion/seminyak
